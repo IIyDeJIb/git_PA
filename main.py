@@ -11,3 +11,5 @@ new feature
 2nd feature
 
 release fix 1
+
+release fix 2
